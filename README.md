@@ -1,0 +1,2 @@
+# tgsh
+ Telegram terminal script
