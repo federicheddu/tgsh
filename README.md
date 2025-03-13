@@ -1,5 +1,5 @@
 # tgsh
- Telegram terminal script
+A set of scripts to send messages, photos and files to a telegram chat using the telegram bot API. You don't need to install any library, is all implemented with curl and POST requests.
 
 ## Installation
 After cloning the repository, with you have to add your telegram bot token to the 3 scripts in the line 11, replacing string
